@@ -13,3 +13,6 @@ Linear Regression
 <br>Random Forest
 <br>XGBoost
 <br>Catboost
+
+### Additional information:
+Time series is applied in Cannabis monthly sales prediction
