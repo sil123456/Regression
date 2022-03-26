@@ -9,7 +9,7 @@
 ### Models used:
 Linear Regression
 <br>Polynomial Regression
-<br>Neural Network
+<br>Neural Network (MLP)
 <br>Random Forest
 <br>XGBoost
 <br>Catboost
