@@ -5,7 +5,7 @@
 [CO-emission](https://github.com/sil123456/Regression/tree/main/CO-emission)
 <br>[Cannabis-monthly-sales](https://github.com/sil123456/Regression/tree/main/Cannabis-monthly-sales)
 <br>[Diamond-price](https://github.com/sil123456/Regression/tree/main/Diamond-price)
-<br>[Fraud-detection](https://github.com/sil123456/Regression/tree/main/Fraud-detectione)
+<br>[Fraud-detection](https://github.com/sil123456/Regression/tree/main/Fraud-detection)
 
 ### Models used:
 Linear Regression
